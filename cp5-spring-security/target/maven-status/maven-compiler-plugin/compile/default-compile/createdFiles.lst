@@ -1,0 +1,9 @@
+br\fiap\cp5\securitymvc\HomeController.class
+br\fiap\cp5\securitymvc\AuthController.class
+br\fiap\cp5\securitymvc\ProductRepository.class
+br\fiap\cp5\securitymvc\Application.class
+br\fiap\cp5\securitymvc\UserRepository.class
+br\fiap\cp5\securitymvc\SecurityConfig.class
+br\fiap\cp5\securitymvc\User.class
+br\fiap\cp5\securitymvc\Product.class
+br\fiap\cp5\securitymvc\ProductController.class

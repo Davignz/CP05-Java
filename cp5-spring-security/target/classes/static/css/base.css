@@ -1,0 +1,1 @@
+body{font-family:system-ui,Arial,sans-serif;margin:2rem}form{display:flex;flex-direction:column;gap:.5rem;max-width:380px}table{border-collapse:collapse;width:100%}td,th{border:1px solid #ddd;padding:.5rem}a.button,button{padding:.4rem .8rem;text-decoration:none;border:1px solid #333;background:#f2f2f2;border-radius:4px}nav{display:flex;gap:1rem;margin-bottom:1rem}
